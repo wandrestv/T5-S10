@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color:rgb(46, 235, 46);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(132, 139, 28);
+    background-color: rgb(70, 67, 62);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 10px solid rgb(199, 193, 193);
+    width: 600px;
+    height: 50px;
+}
+#color2{
+    color: rgb(190, 179, 201);
+    background-color: rgb(107, 22, 22);
+}
+
+.coral{
+    color: coral;
+}
+
+.center{
+    text-align: center;
+}
+
+
+.left{
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
+
+.t-justify{
+    text-align:justify;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+.siglas{
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(44, 58, 192);
+}
+
+
+
+.uno{
+    background-color: rgb(141, 27, 27);
+    float: left;
+    height: 40px;
+    width: 100%;
+}
+.dos{
+    float: left;
+    width: 25%;
+    height: 400px;
+    background-color: rgb(156, 148, 138);
+}
+.tres{
+    float: left;
+    width: 75%;
+    height: 400px;
+    background-color: lightblue;
+}
+.cuatro{
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(48, 92, 136);
+}
+.box{
+    width: 114px;
+    height: 114px;
+    background-color: rgb(36, 39, 35);
+    margin: 10px;
+    float: left;
+}
+.boxx{
+    width: 114px;
+    height: 114px;
+    background-color: rgb(75, 160, 124);
+    margin: 10px;
+    float: left;
+}
